@@ -113,16 +113,19 @@ The dashboard includes interactive slicers, cross-filtering, and page navigation
 
 ## Project Structure
 ```text
-ecommerce_ai_project/
+ecommerce-intelligence-ai/
 │
 ├── data/
 │   ├── raw/
-│   │   ├── products.csv
 │   │   ├── orders.csv
+│   │   ├── products.csv
 │   │   └── reviews.csv
 │   │
 │   └── clean/
-│       └── Processed and analysis-ready CSV datasets
+│       ├── orders_clean.csv
+│       ├── products_clean.csv
+│       ├── reviews_clean.csv
+│       └── ... (additional analysis datasets)
 │
 ├── notebooks/
 │   ├── 01_generate_data.ipynb
@@ -133,6 +136,15 @@ ecommerce_ai_project/
 ├── powerbi/
 │   └── Ecommerce_Intelligence_Dashboard_Final.pbix
 │
-└── sql/
-
+├── screenshots/
+│   ├── 01_business_performance.PNG
+│   ├── 02_product_experience.PNG
+│   ├── 03_ai_customer_voice.PNG
+│   └── 04_prompt_engineering.PNG
+│
+├── sql/
+│   └── ecommerce_analysis.sql
+│
+├── .gitignore
+└── README.md
 
