@@ -106,7 +106,7 @@ The dashboard includes interactive slicers, cross-filtering, and page navigation
 **Note:** Prompt agreement measures consistency with the rule-based labels in this sample. It does not represent independently verified AI classification accuracy.
 
 ## Project Structure
-
+```text
 ecommerce_ai_project/
 │
 ├── data/
