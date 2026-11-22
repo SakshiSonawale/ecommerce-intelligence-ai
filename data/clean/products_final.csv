@@ -1,0 +1,31 @@
+product_id,product_name,category,brand,unit_price
+P001,Wireless Earbuds,Electronics,SoundMax,1499.0
+P002,Bluetooth Speaker,Electronics,SoundMax,1999.0
+P003,Smart Watch,Electronics,TechPro,2499.0
+P004,USB-C Cable,Electronics,TechPro,299.0
+P005,Power Bank,Electronics,VoltX,999.0
+P006,Laptop Stand,Electronics,WorkEase,799.0
+P007,Mechanical Keyboard,Electronics,KeyCraft,2999.0
+P008,Wireless Mouse,Electronics,KeyCraft,699.0
+P009,Phone Case,Accessories,CoverCo,399.0
+P010,Screen Protector,Accessories,CoverCo,199.0
+P011,Backpack,Fashion,UrbanTrail,1299.0
+P012,Travel Bottle,Home,EcoLife,499.0
+P013,Desk Lamp,Home,BrightHome,899.0
+P014,Water Bottle,Home,EcoLife,349.0
+P015,Coffee Mug,Home,DailyUse,249.0
+P016,Running Shoes,Fashion,ActiveFit,2199.0
+P017,Yoga Mat,Fitness,ActiveFit,899.0
+P018,Resistance Bands,Fitness,FlexGear,499.0
+P019,Cotton T-Shirt,Fashion,UrbanWear,599.0
+P020,Hoodie,Fashion,UrbanWear,1499.0
+P021,Cookware Set,Home,KitchenPro,2499.0
+P022,Storage Containers,Home,KitchenPro,699.0
+P023,Face Moisturizer,Beauty,GlowCare,399.0
+P024,Sunscreen,Beauty,GlowCare,499.0
+P025,Shampoo,Beauty,PureRoots,299.0
+P026,Notebook Set,Stationery,PaperNest,199.0
+P027,Office Chair,Furniture,WorkEase,5499.0
+P028,Bedsheet Set,Home,SoftLiving,1299.0
+P029,Air Fryer,Appliances,HomeChef,3999.0
+P030,Electric Kettle,Appliances,HomeChef,1199.0

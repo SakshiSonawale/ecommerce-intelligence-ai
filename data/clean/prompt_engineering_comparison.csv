@@ -1,0 +1,43 @@
+review_id,review_text,complaint_category,ai_category,ai_category_v2
+R0006,Not worth the price. Very disappointed.,Pricing,Pricing,Pricing
+R0008,The material feels cheap and uncomfortable.,Material Quality,Material Quality,Material Quality
+R0013,Stopped working after two days.,Product Failure,Product Failure,Product Failure
+R0023,Not worth the price. Very disappointed.,Pricing,Pricing,Pricing
+R0028,Stopped working after two days.,Product Failure,Product Failure,Product Failure
+R0030,Stopped working after two days.,Product Failure,Product Failure,Product Failure
+R0031,Not worth the price. Very disappointed.,Pricing,Pricing,Pricing
+R0036,Not worth the price. Very disappointed.,Pricing,Pricing,Pricing
+R0039,Not worth the price. Very disappointed.,Pricing,Pricing,Pricing
+R0054,Poor quality and disappointing experience.,Poor Quality,Other,Poor Quality
+R0065,The material feels cheap and uncomfortable.,Material Quality,Material Quality,Material Quality
+R0069,Not worth the price. Very disappointed.,Pricing,Pricing,Pricing
+R0074,Product arrived damaged.,Damaged Product,Damaged Product,Damaged Product
+R0093,Product arrived damaged.,Damaged Product,Damaged Product,Damaged Product
+R0104,Delivery was late and packaging was damaged.,Delivery & Packaging,Delivery & Packaging,Delivery & Packaging
+R0105,Poor quality and disappointing experience.,Poor Quality,Other,Poor Quality
+R0106,Not worth the price. Very disappointed.,Pricing,Pricing,Pricing
+R0107,Poor quality and disappointing experience.,Poor Quality,Other,Poor Quality
+R0111,Battery life is terrible.,Battery Performance,Battery Performance,Battery Performance
+R0112,Stopped working after two days.,Product Failure,Product Failure,Product Failure
+R0119,Stopped working after two days.,Product Failure,Product Failure,Product Failure
+R0127,Battery life is terrible.,Battery Performance,Battery Performance,Battery Performance
+R0140,Poor quality and disappointing experience.,Poor Quality,Other,Poor Quality
+R0146,Poor quality and disappointing experience.,Poor Quality,Other,Poor Quality
+R0156,Poor quality and disappointing experience.,Poor Quality,Other,Poor Quality
+R0164,Poor quality and disappointing experience.,Poor Quality,Other,Poor Quality
+R0172,Not worth the price. Very disappointed.,Pricing,Pricing,Pricing
+R0178,Stopped working after two days.,Product Failure,Product Failure,Product Failure
+R0181,Poor quality and disappointing experience.,Poor Quality,Other,Poor Quality
+R0185,Delivery was late and packaging was damaged.,Delivery & Packaging,Delivery & Packaging,Delivery & Packaging
+R0186,Poor quality and disappointing experience.,Poor Quality,Other,Poor Quality
+R0198,Product arrived damaged.,Damaged Product,Damaged Product,Damaged Product
+R0200,Battery life is terrible.,Battery Performance,Battery Performance,Battery Performance
+R0207,Battery life is terrible.,Battery Performance,Battery Performance,Battery Performance
+R0210,Product arrived damaged.,Damaged Product,Damaged Product,Damaged Product
+R0214,Battery life is terrible.,Battery Performance,Battery Performance,Battery Performance
+R0226,Product arrived damaged.,Damaged Product,Damaged Product,Damaged Product
+R0231,Poor quality and disappointing experience.,Poor Quality,Other,Poor Quality
+R0241,The material feels cheap and uncomfortable.,Material Quality,Material Quality,Material Quality
+R0246,The material feels cheap and uncomfortable.,Material Quality,Material Quality,Material Quality
+R0247,Not worth the price. Very disappointed.,Pricing,Pricing,Pricing
+R0250,Delivery was late and packaging was damaged.,Delivery & Packaging,Delivery & Packaging,Delivery & Packaging

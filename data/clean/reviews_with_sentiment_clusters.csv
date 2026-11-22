@@ -1,0 +1,251 @@
+review_id,product_id,review_date,rating,review_text,sentiment_score,sentiment,corrected_sentiment,cluster,cluster_theme
+R0001,P006,2025-06-27,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0002,P017,2025-05-09,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0003,P007,2025-05-21,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0004,P005,2025-10-01,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0005,P003,2025-10-25,4,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0006,P005,2025-06-22,2,Not worth the price. Very disappointed.,-0.6198,Negative,Negative,5,Pricing & Purchase Satisfaction
+R0007,P027,2025-01-15,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0008,P003,2025-10-23,1,The material feels cheap and uncomfortable.,-0.3818,Negative,Negative,6,Material & Quality Concerns
+R0009,P009,2025-08-02,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0010,P020,2025-10-07,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0011,P010,2025-09-05,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0012,P008,2025-06-02,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0013,P015,2025-03-22,1,Stopped working after two days.,-0.2263,Negative,Negative,7,Product Reliability
+R0014,P015,2025-04-15,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0015,P011,2025-06-13,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0016,P024,2025-07-24,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0017,P005,2025-10-15,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0018,P004,2025-03-04,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0019,P009,2025-02-19,4,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0020,P002,2025-08-03,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0021,P008,2025-06-17,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0022,P030,2025-04-08,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0023,P025,2025-08-28,2,Not worth the price. Very disappointed.,-0.6198,Negative,Negative,5,Pricing & Purchase Satisfaction
+R0024,P016,2025-01-12,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0025,P003,2025-08-23,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0026,P008,2025-01-25,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0027,P002,2025-05-27,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0028,P018,2025-08-09,1,Stopped working after two days.,-0.2263,Negative,Negative,7,Product Reliability
+R0029,P005,2025-07-26,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0030,P012,2025-10-19,1,Stopped working after two days.,-0.2263,Negative,Negative,7,Product Reliability
+R0031,P018,2025-05-28,2,Not worth the price. Very disappointed.,-0.6198,Negative,Negative,5,Pricing & Purchase Satisfaction
+R0032,P003,2025-10-09,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0033,P009,2025-03-02,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0034,P005,2025-07-11,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0035,P026,2025-07-07,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0036,P025,2025-09-18,2,Not worth the price. Very disappointed.,-0.6198,Negative,Negative,5,Pricing & Purchase Satisfaction
+R0037,P013,2025-01-20,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0038,P005,2025-09-23,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0039,P015,2025-03-13,2,Not worth the price. Very disappointed.,-0.6198,Negative,Negative,5,Pricing & Purchase Satisfaction
+R0040,P011,2025-03-25,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0041,P013,2025-06-22,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0042,P017,2025-09-08,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0043,P023,2025-01-09,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0044,P012,2025-08-02,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0045,P019,2025-08-31,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0046,P009,2025-10-23,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0047,P008,2025-09-03,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0048,P006,2025-07-14,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0049,P005,2025-01-17,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0050,P019,2025-04-08,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0051,P001,2025-03-19,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0052,P014,2025-09-14,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0053,P025,2025-02-01,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0054,P023,2025-10-15,2,Poor quality and disappointing experience.,-0.743,Negative,Negative,6,Material & Quality Concerns
+R0055,P011,2025-09-27,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0056,P013,2025-08-24,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0057,P030,2025-07-01,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0058,P022,2025-09-05,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0059,P007,2025-10-13,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0060,P010,2025-05-28,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0061,P023,2025-06-12,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0062,P016,2025-05-28,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0063,P004,2025-07-14,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0064,P029,2025-03-16,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0065,P010,2025-02-10,1,The material feels cheap and uncomfortable.,-0.3818,Negative,Negative,6,Material & Quality Concerns
+R0066,P012,2025-09-03,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0067,P007,2025-10-15,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0068,P023,2025-05-03,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0069,P008,2025-04-26,1,Not worth the price. Very disappointed.,-0.6198,Negative,Negative,5,Pricing & Purchase Satisfaction
+R0070,P021,2025-07-31,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0071,P011,2025-03-12,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0072,P001,2025-07-28,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0073,P021,2025-09-02,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0074,P021,2025-06-14,2,Product arrived damaged.,-0.4404,Negative,Negative,2,Delivery & Product Condition
+R0075,P010,2025-10-21,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0076,P008,2025-03-31,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0077,P014,2025-01-19,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0078,P027,2025-04-06,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0079,P030,2025-01-20,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0080,P001,2025-06-21,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0081,P010,2025-09-26,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0082,P016,2025-09-16,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0083,P015,2025-06-19,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0084,P006,2025-04-06,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0085,P001,2025-10-18,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0086,P022,2025-07-27,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0087,P027,2025-02-14,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0088,P013,2025-03-13,4,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0089,P016,2025-01-04,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0090,P009,2025-05-17,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0091,P011,2025-05-14,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0092,P021,2025-02-01,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0093,P022,2025-03-23,2,Product arrived damaged.,-0.4404,Negative,Negative,2,Delivery & Product Condition
+R0094,P013,2025-03-02,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0095,P021,2025-07-08,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0096,P020,2025-09-02,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0097,P005,2025-07-11,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0098,P014,2025-10-03,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0099,P026,2025-05-07,4,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0100,P022,2025-09-27,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0101,P015,2025-02-09,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0102,P030,2025-10-08,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0103,P029,2025-10-02,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0104,P005,2025-09-24,2,Delivery was late and packaging was damaged.,-0.4404,Negative,Negative,2,Delivery & Product Condition
+R0105,P015,2025-10-26,2,Poor quality and disappointing experience.,-0.743,Negative,Negative,6,Material & Quality Concerns
+R0106,P016,2025-08-17,2,Not worth the price. Very disappointed.,-0.6198,Negative,Negative,5,Pricing & Purchase Satisfaction
+R0107,P026,2025-09-20,1,Poor quality and disappointing experience.,-0.743,Negative,Negative,6,Material & Quality Concerns
+R0108,P014,2025-10-14,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0109,P015,2025-01-12,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0110,P013,2025-04-22,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0111,P019,2025-06-26,1,Battery life is terrible.,-0.4767,Negative,Negative,4,Battery & Everyday Usage
+R0112,P023,2025-02-05,1,Stopped working after two days.,-0.2263,Negative,Negative,7,Product Reliability
+R0113,P030,2025-07-29,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0114,P006,2025-07-11,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0115,P029,2025-07-12,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0116,P003,2025-03-10,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0117,P021,2025-04-02,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0118,P018,2025-04-25,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0119,P027,2025-06-02,1,Stopped working after two days.,-0.2263,Negative,Negative,7,Product Reliability
+R0120,P015,2025-08-06,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0121,P018,2025-05-07,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0122,P015,2025-04-07,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0123,P030,2025-01-17,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0124,P026,2025-01-09,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0125,P008,2025-01-18,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0126,P015,2025-05-06,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0127,P024,2025-04-30,1,Battery life is terrible.,-0.4767,Negative,Negative,4,Battery & Everyday Usage
+R0128,P018,2025-03-13,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0129,P017,2025-10-22,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0130,P011,2025-05-02,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0131,P010,2025-04-24,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0132,P014,2025-10-13,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0133,P019,2025-08-07,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0134,P018,2025-07-15,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0135,P026,2025-07-29,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0136,P005,2025-10-03,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0137,P016,2025-06-03,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0138,P028,2025-01-30,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0139,P018,2025-10-13,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0140,P017,2025-05-11,2,Poor quality and disappointing experience.,-0.743,Negative,Negative,6,Material & Quality Concerns
+R0141,P007,2025-08-19,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0142,P028,2025-01-27,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0143,P009,2025-02-07,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0144,P007,2025-10-14,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0145,P007,2025-06-05,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0146,P030,2025-03-02,1,Poor quality and disappointing experience.,-0.743,Negative,Negative,6,Material & Quality Concerns
+R0147,P024,2025-05-05,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0148,P023,2025-07-23,4,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0149,P030,2025-05-25,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0150,P013,2025-06-07,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0151,P009,2025-08-27,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0152,P004,2025-06-13,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0153,P030,2025-07-31,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0154,P002,2025-03-16,4,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0155,P001,2025-06-01,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0156,P005,2025-07-14,2,Poor quality and disappointing experience.,-0.743,Negative,Negative,6,Material & Quality Concerns
+R0157,P019,2025-10-09,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0158,P021,2025-05-12,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0159,P025,2025-08-24,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0160,P006,2025-03-28,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0161,P005,2025-04-05,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0162,P030,2025-09-26,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0163,P002,2025-01-25,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0164,P025,2025-04-29,1,Poor quality and disappointing experience.,-0.743,Negative,Negative,6,Material & Quality Concerns
+R0165,P003,2025-04-22,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0166,P017,2025-09-05,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0167,P022,2025-09-30,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0168,P018,2025-09-29,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0169,P024,2025-01-09,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0170,P017,2025-04-02,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0171,P004,2025-03-18,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0172,P008,2025-05-10,2,Not worth the price. Very disappointed.,-0.6198,Negative,Negative,5,Pricing & Purchase Satisfaction
+R0173,P027,2025-02-10,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0174,P012,2025-10-17,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0175,P008,2025-06-03,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0176,P022,2025-01-17,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0177,P003,2025-10-10,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0178,P016,2025-03-29,1,Stopped working after two days.,-0.2263,Negative,Negative,7,Product Reliability
+R0179,P003,2025-06-19,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0180,P019,2025-09-28,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0181,P030,2025-10-18,1,Poor quality and disappointing experience.,-0.743,Negative,Negative,6,Material & Quality Concerns
+R0182,P016,2025-05-24,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0183,P029,2025-04-02,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0184,P030,2025-04-17,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0185,P019,2025-07-23,2,Delivery was late and packaging was damaged.,-0.4404,Negative,Negative,2,Delivery & Product Condition
+R0186,P030,2025-10-16,1,Poor quality and disappointing experience.,-0.743,Negative,Negative,6,Material & Quality Concerns
+R0187,P008,2025-10-04,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0188,P011,2025-02-10,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0189,P017,2025-01-28,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0190,P004,2025-06-24,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0191,P020,2025-07-23,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0192,P025,2025-08-19,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0193,P016,2025-08-10,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0194,P006,2025-02-13,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0195,P025,2025-02-07,4,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0196,P003,2025-03-20,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0197,P024,2025-02-24,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0198,P003,2025-08-16,1,Product arrived damaged.,-0.4404,Negative,Negative,2,Delivery & Product Condition
+R0199,P012,2025-03-09,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0200,P003,2025-10-13,2,Battery life is terrible.,-0.4767,Negative,Negative,4,Battery & Everyday Usage
+R0201,P018,2025-01-14,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0202,P003,2025-06-16,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0203,P028,2025-07-31,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0204,P013,2025-05-05,5,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0205,P019,2025-03-28,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0206,P005,2025-09-10,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0207,P005,2025-05-22,1,Battery life is terrible.,-0.4767,Negative,Negative,4,Battery & Everyday Usage
+R0208,P014,2025-07-04,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0209,P009,2025-04-11,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0210,P015,2025-01-04,2,Product arrived damaged.,-0.4404,Negative,Negative,2,Delivery & Product Condition
+R0211,P013,2025-06-18,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0212,P015,2025-06-03,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0213,P011,2025-09-03,4,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0214,P011,2025-06-13,2,Battery life is terrible.,-0.4767,Negative,Negative,4,Battery & Everyday Usage
+R0215,P010,2025-10-22,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0216,P026,2025-05-24,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0217,P027,2025-02-28,5,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0218,P030,2025-10-07,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0219,P006,2025-01-14,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0220,P024,2025-08-13,4,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0221,P026,2025-07-29,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0222,P022,2025-05-04,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0223,P009,2025-07-13,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0224,P003,2025-09-03,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0225,P019,2025-08-03,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0226,P018,2025-10-02,1,Product arrived damaged.,-0.4404,Negative,Negative,2,Delivery & Product Condition
+R0227,P020,2025-02-25,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0228,P025,2025-03-27,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0229,P021,2025-07-24,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0230,P025,2025-02-24,3,Decent product but could be improved.,0.631,Positive,Positive,2,Delivery & Product Condition
+R0231,P001,2025-09-19,2,Poor quality and disappointing experience.,-0.743,Negative,Negative,6,Material & Quality Concerns
+R0232,P024,2025-10-22,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0233,P008,2025-08-26,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0234,P025,2025-03-19,4,Exactly as described. Very satisfied.,0.4754,Positive,Positive,1,Customer Satisfaction
+R0235,P012,2025-02-23,5,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0236,P010,2025-03-01,4,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0237,P027,2025-06-28,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0238,P010,2025-09-24,3,Average quality for the price.,0.0,Neutral,Neutral,6,Material & Quality Concerns
+R0239,P016,2025-08-13,3,The product is okay for everyday use.,0.2263,Positive,Positive,4,Battery & Everyday Usage
+R0240,P024,2025-02-04,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0241,P010,2025-02-28,1,The material feels cheap and uncomfortable.,-0.3818,Negative,Negative,6,Material & Quality Concerns
+R0242,P001,2025-03-26,5,Excellent quality and works perfectly.,0.836,Positive,Positive,3,Product Quality & Performance
+R0243,P030,2025-09-22,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0244,P006,2025-10-14,4,Good value for money. Would recommend.,0.7783,Positive,Positive,0,Value for Money
+R0245,P014,2025-07-27,5,Very happy with this purchase.,0.6115,Positive,Positive,5,Pricing & Purchase Satisfaction
+R0246,P021,2025-08-10,2,The material feels cheap and uncomfortable.,-0.3818,Negative,Negative,6,Material & Quality Concerns
+R0247,P013,2025-04-12,1,Not worth the price. Very disappointed.,-0.6198,Negative,Negative,5,Pricing & Purchase Satisfaction
+R0248,P015,2025-01-03,4,Fast delivery and great product.,0.6249,Positive,Positive,2,Delivery & Product Condition
+R0249,P023,2025-02-02,3,"Works as expected, nothing special.",-0.3089,Negative,Neutral,7,Product Reliability
+R0250,P019,2025-10-02,2,Delivery was late and packaging was damaged.,-0.4404,Negative,Negative,2,Delivery & Product Condition

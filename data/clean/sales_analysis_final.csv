@@ -1,0 +1,31 @@
+product_id,total_quantity_sold,total_orders,total_revenue,product_name,category,brand,unit_price
+P027,30,12,164970.0,Office Chair,Furniture,WorkEase,5499.0
+P029,24,11,95976.0,Air Fryer,Appliances,HomeChef,3999.0
+P003,30,12,74970.0,Smart Watch,Electronics,TechPro,2499.0
+P007,22,8,65978.0,Mechanical Keyboard,Electronics,KeyCraft,2999.0
+P002,32,12,63968.0,Bluetooth Speaker,Electronics,SoundMax,1999.0
+P021,19,11,47481.0,Cookware Set,Home,KitchenPro,2499.0
+P011,30,13,38970.0,Backpack,Fashion,UrbanTrail,1299.0
+P016,16,8,35184.0,Running Shoes,Fashion,ActiveFit,2199.0
+P005,32,13,31968.0,Power Bank,Electronics,VoltX,999.0
+P020,20,10,29980.0,Hoodie,Fashion,UrbanWear,1499.0
+P028,19,8,24681.0,Bedsheet Set,Home,SoftLiving,1299.0
+P008,33,14,23067.0,Wireless Mouse,Electronics,KeyCraft,699.0
+P030,19,10,22781.0,Electric Kettle,Appliances,HomeChef,1199.0
+P022,30,11,20970.0,Storage Containers,Home,KitchenPro,699.0
+P017,21,10,18879.0,Yoga Mat,Fitness,ActiveFit,899.0
+P012,35,14,17465.0,Travel Bottle,Home,EcoLife,499.0
+P013,19,7,17081.0,Desk Lamp,Home,BrightHome,899.0
+P024,33,12,16467.0,Sunscreen,Beauty,GlowCare,499.0
+P019,19,8,11381.0,Cotton T-Shirt,Fashion,UrbanWear,599.0
+P001,7,4,10493.0,Wireless Earbuds,Electronics,SoundMax,1499.0
+P018,21,7,10479.0,Resistance Bands,Fitness,FlexGear,499.0
+P009,25,10,9975.0,Phone Case,Accessories,CoverCo,399.0
+P023,22,9,8778.0,Face Moisturizer,Beauty,GlowCare,399.0
+P015,32,14,7968.0,Coffee Mug,Home,DailyUse,249.0
+P014,17,7,5933.0,Water Bottle,Home,EcoLife,349.0
+P026,29,10,5771.0,Notebook Set,Stationery,PaperNest,199.0
+P025,19,8,5681.0,Shampoo,Beauty,PureRoots,299.0
+P010,25,8,4975.0,Screen Protector,Accessories,CoverCo,199.0
+P006,6,4,4794.0,Laptop Stand,Electronics,WorkEase,799.0
+P004,15,6,4485.0,USB-C Cable,Electronics,TechPro,299.0

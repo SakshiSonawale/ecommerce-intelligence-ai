@@ -1,0 +1,31 @@
+product_id,product_name,category,brand,unit_price
+P001,Wireless Earbuds,Electronics,SoundMax,1499
+P002,Bluetooth Speaker,Electronics,SoundMax,1999
+P003,Smart Watch,Electronics,TechPro,2499
+P004,USB-C Cable,Electronics,TechPro,299
+P005,Power Bank,Electronics,VoltX,999
+P006,Laptop Stand,Electronics,WorkEase,799
+P007,Mechanical Keyboard,Electronics,KeyCraft,2999
+P008,Wireless Mouse,Electronics,KeyCraft,699
+P009,Phone Case,Accessories,CoverCo,399
+P010,Screen Protector,Accessories,CoverCo,199
+P011,Backpack,Fashion,UrbanTrail,1299
+P012,Travel Bottle,Home,EcoLife,499
+P013,Desk Lamp,Home,BrightHome,899
+P014,Water Bottle,Home,EcoLife,349
+P015,Coffee Mug,Home,DailyUse,249
+P016,Running Shoes,Fashion,ActiveFit,2199
+P017,Yoga Mat,Fitness,ActiveFit,899
+P018,Resistance Bands,Fitness,FlexGear,499
+P019,Cotton T-Shirt,Fashion,UrbanWear,599
+P020,Hoodie,Fashion,UrbanWear,1499
+P021,Cookware Set,Home,KitchenPro,2499
+P022,Storage Containers,Home,KitchenPro,699
+P023,Face Moisturizer,Beauty,GlowCare,399
+P024,Sunscreen,Beauty,GlowCare,499
+P025,Shampoo,Beauty,PureRoots,299
+P026,Notebook Set,Stationery,PaperNest,199
+P027,Office Chair,Furniture,WorkEase,5499
+P028,Bedsheet Set,Home,SoftLiving,1299
+P029,Air Fryer,Appliances,HomeChef,3999
+P030,Electric Kettle,Appliances,HomeChef,1199

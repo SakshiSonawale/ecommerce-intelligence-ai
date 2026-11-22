@@ -1,0 +1,31 @@
+product_id,total_quantity_sold,total_orders,total_revenue,total_complaints,average_rating,total_reviews,overall_average_rating,complaint_rate,business_priority
+P027,30,12,164970.0,1,1.0,7,3.71,14.29,Strong Sales
+P029,24,11,95976.0,0,0.0,4,4.0,0.0,Strong Sales
+P003,30,12,74970.0,3,1.33,13,3.31,23.08,High Sales - High Complaints
+P007,22,8,65978.0,0,0.0,6,4.0,0.0,Strong Sales
+P002,32,12,63968.0,0,0.0,4,3.75,0.0,Strong Sales
+P021,19,11,47481.0,2,2.0,9,3.78,22.22,High Sales - High Complaints
+P011,30,13,38970.0,1,2.0,9,3.89,11.11,Strong Sales
+P016,16,8,35184.0,2,1.5,10,3.1,20.0,Strong Sales
+P005,32,13,31968.0,4,1.75,14,3.64,28.57,High Sales - High Complaints
+P020,20,10,29980.0,0,0.0,4,4.0,0.0,Strong Sales
+P028,19,8,24681.0,0,0.0,3,3.67,0.0,Strong Sales
+P008,33,14,23067.0,2,1.5,11,3.73,18.18,Strong Sales
+P030,19,10,22781.0,3,1.0,15,3.6,20.0,Strong Sales
+P022,30,11,20970.0,1,2.0,7,4.29,14.29,Strong Sales
+P017,21,10,18879.0,1,2.0,7,4.43,14.29,Strong Sales
+P012,35,14,17465.0,1,1.0,6,4.0,16.67,Monitor
+P013,19,7,17081.0,1,1.0,10,3.6,10.0,Monitor
+P024,33,12,16467.0,1,1.0,8,3.62,12.5,Monitor
+P019,19,8,11381.0,3,1.67,10,3.6,30.0,High Complaint Rate
+P001,7,4,10493.0,1,2.0,7,3.86,14.29,Monitor
+P018,21,7,10479.0,3,1.33,10,2.9,30.0,High Complaint Rate
+P009,25,10,9975.0,0,0.0,9,4.0,0.0,Monitor
+P023,22,9,8778.0,2,1.5,7,2.86,28.57,High Complaint Rate
+P015,32,14,7968.0,4,1.75,13,3.08,30.77,High Complaint Rate
+P014,17,7,5933.0,0,0.0,7,4.14,0.0,Monitor
+P026,29,10,5771.0,1,1.0,7,3.43,14.29,Monitor
+P025,19,8,5681.0,3,1.67,10,3.1,30.0,High Complaint Rate
+P010,25,8,4975.0,2,1.0,10,3.4,20.0,Monitor
+P006,6,4,4794.0,0,0.0,8,4.25,0.0,Monitor
+P004,15,6,4485.0,0,0.0,5,4.2,0.0,Monitor
