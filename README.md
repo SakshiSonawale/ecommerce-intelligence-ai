@@ -62,7 +62,6 @@ The project follows an end-to-end analytics workflow:
 7. **Power BI Dashboard**
    - Built interactive dashboards to analyze business performance, product experience, customer sentiment, and AI insights.
   
-
 ## Power BI Dashboard
 
 The interactive Power BI report consists of four pages:
@@ -74,7 +73,6 @@ The interactive Power BI report consists of four pages:
 - Business priority overview
 
 ![Business Performance Overview](screenshots/01_business_performance.PNG)
-
 
 ### 2. Product Performance & Customer Satisfaction
 - Product revenue vs. complaint rate
@@ -102,7 +100,6 @@ The interactive Power BI report consists of four pages:
 ![Prompt Engineering](screenshots/04_prompt_engineering.PNG)
 
 The dashboard includes interactive slicers, cross-filtering, and page navigation.
-
 
 ## Key Findings
 
