@@ -92,15 +92,6 @@ The interactive Power BI report consists of four pages:
 - Complaint classification agreement
 - Key findings from AI-assisted classification
 
-## Power BI Dashboard
-
-The project includes a four-page interactive Power BI dashboard:
-
-1. **Business Performance Overview** – Revenue, sales, business KPIs, and sentiment distribution.
-2. **Product Experience** – Product revenue, complaint rates, customer ratings, and product performance.
-3. **AI Customer Voice** – Customer sentiment, complaint categories, review themes, and AI-driven insights.
-4. **Prompt Engineering** – Comparison of basic and refined prompts using complaint classification agreement.
-
 The dashboard includes interactive slicers, cross-filtering, and page navigation.
 
 
@@ -140,6 +131,3 @@ ecommerce_ai_project/
 └── sql/
 
 
-A small but important point: we'll exclude `.venv` from GitHub. It contains your local Python environment and doesn't need to be uploaded.
-
-**Don't commit yet.** Tell me when this section is added. ❤️
