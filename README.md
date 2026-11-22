@@ -107,7 +107,6 @@ The dashboard includes interactive slicers, cross-filtering, and page navigation
 
 ## Project Structure
 
-```text
 ecommerce_ai_project/
 │
 ├── data/
