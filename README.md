@@ -69,16 +69,12 @@ The interactive Power BI report consists of four pages:
 
 ### 1. Business Performance Overview
 - Business performance KPIs
+- Revenue and sales analysis
+- Sentiment distribution
+- Business priority overview
+
 ![Business Performance Overview](screenshots/01_business_performance.PNG)
 
-- Revenue and sales analysis
-![Product Experience](screenshots/02_product_experience.PNG)
-
-- Sentiment distribution
-![AI Customer Voice](screenshots/03_ai_customer_voice.PNG)
-
-- Business priority overview
-![Prompt Engineering](screenshots/04_prompt_engineering.PNG)
 
 ### 2. Product Performance & Customer Satisfaction
 - Product revenue vs. complaint rate
@@ -87,6 +83,8 @@ The interactive Power BI report consists of four pages:
 - Revenue by business priority
 - Detailed product performance table
 
+![Product Experience](screenshots/02_product_experience.PNG)
+
 ### 3. Customer Voice & AI Insights
 - Customer sentiment distribution
 - Complaint category analysis
@@ -94,10 +92,14 @@ The interactive Power BI report consists of four pages:
 - Overall customer review themes
 - Interactive customer review explorer
 
+![AI Customer Voice](screenshots/03_ai_customer_voice.PNG)
+
 ### 4. Prompt Engineering
 - Basic vs. refined prompt comparison
 - Complaint classification agreement
 - Key findings from AI-assisted classification
+
+![Prompt Engineering](screenshots/04_prompt_engineering.PNG)
 
 The dashboard includes interactive slicers, cross-filtering, and page navigation.
 
