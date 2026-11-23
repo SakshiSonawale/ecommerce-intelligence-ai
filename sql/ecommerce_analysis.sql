@@ -171,7 +171,7 @@ SELECT
 FROM products p
 JOIN orders o
     ON p.product_id = o.product_id
-WHERE o.order_status = 'Completed'
+WHERE o.order_status = 'Delivered'
 GROUP BY
     p.product_id,
     p.product_name
