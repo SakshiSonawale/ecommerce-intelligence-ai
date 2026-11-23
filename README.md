@@ -147,4 +147,4 @@ ecommerce-intelligence-ai/
 │
 ├── .gitignore
 └── README.md
-
+```
